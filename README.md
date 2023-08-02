@@ -10,7 +10,7 @@ Romanella Colombini
 
 # Travelling Salesman Problem: Genetic Algorithms #
 
-Genetic algorithms are a search technique based on Darwin's evolutionary theory. In this paper, such heuristics were implemented, using the object-oriented programming paradigm and C++ language, in order to solve the Travelling Salesman Problem; that problem focuses on finding the optimal route by which a traveller can travel through a series of cities in the shortest possible time or with the shortest possible distance. 
+Genetic algorithms are a search technique based on Darwin's evolutionary theory. In this paper, such heuristics were implemented, using the object-oriented programming paradigm in C++ language and Python3, in order to solve the Travelling Salesman Problem; that problem focuses on finding the optimal route by which a traveller can travel through a series of cities in the shortest possible time or with the shortest possible distance. 
 
 ### Dependencies ###
 * gcc
